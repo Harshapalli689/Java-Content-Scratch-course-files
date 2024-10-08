@@ -1,0 +1,9 @@
+{
+    "[json]": {
+        "editor.quickSuggestions": {
+            "other": "inline",
+            "comments": "inline"
+        }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
